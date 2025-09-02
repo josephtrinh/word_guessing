@@ -12,3 +12,5 @@ pip install requests
 
 ## To run
 python word_guessing_game.py
+
+TESTING
